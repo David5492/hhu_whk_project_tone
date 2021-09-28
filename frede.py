@@ -71,19 +71,19 @@ nicht_eingelesen = [pfad for pfad in paths_de_SR if pfad not in ist_eingelesen]
 # 2. Schleife initiieren
 
 eingelesene_pfade  = 0
-pfad_counter = 1
+pfad_counter = 0
 
 with open("eingelesen.txt", mode="r", encoding="utf-8") as file:
     for line in file:
         eingelesene_pfade += 1
-if eingelesene_pfade > 0:
+if eingelesene_pfade >= pfad_counter:
     pfad_counter = eingelesene_pfade
 
 
 for pfad in nicht_eingelesen:
 
     # file laden
-    parsedPDF = parser.from_file(pfad, requestOptions={'timeout': 60}) 
+    parsedPDF = parser.from_file(pfad, requestOptions={'timeout': 300}) 
 
     # Ausgabe-Variablen initiieren und ggf direkt füllen. 
     Company = os.path.basename(pfad).split('20')[0].lower().strip()
@@ -239,7 +239,7 @@ for pfad in nicht_eingelesen:
             # Seite für Seite durchgehen
             for page in pages: 
                 page_number += 1
-                print(u'Datei {} / {}. Seite {} / {}'.format(pfad_counter, len(paths_de_SR), page_number, report_size_SRNFE))
+                print(u'Datei {} / {}. Seite {} / {}. Next Pfad: {}'.format(pfad_counter, len(paths_de_SR), page_number, report_size_SRNFE, nicht_eingelesen[pfad_counter +1]))
 
                 # Spaltennamen von Tabellen standen immer hinter \n\n. Das durch Punkt ersetzt um Satzlänge künstlich zu kürzen. Tabellen werden jetzt nicht mehr als (wirre) Sätze gelesen. 
                 text_SR = page.replace('\n\n', ".").replace('\n', "").replace('*','.').replace('..','.').replace('\t', "").replace(";", '').strip().lower()
@@ -257,7 +257,7 @@ for pfad in nicht_eingelesen:
                         if word in unc_list:
                             unc_words += 1
             with open('output.csv', mode='a', encoding="utf-8") as file:
-                file.write(u'{};{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n'.format(Company, Year, pos_words, neg_words, unc_words, SR, NFE, ISIN, Date_SRNFE, Date_AR, report_size_SRNFE, report_sentence_SRNFE, report_words_SRNFE, is_gri, report_size_AR, report_sentence_AR, report_words_AR, pfad))
+                file.write(u'{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n'.format(Company, Year, pos_words, neg_words, unc_words, SR, NFE, ISIN, Date_SRNFE, Date_AR, report_size_SRNFE, report_sentence_SRNFE, report_words_SRNFE, is_gri, report_size_AR, report_sentence_AR, report_words_AR, pfad))
             with open("eingelesen.txt", mode="a", encoding="utf-8") as file:
                 file.write(pfad + '\n')
     except:
@@ -268,10 +268,3 @@ for pfad in nicht_eingelesen:
 
 stop = datetime.datetime.now()
 print(u'\nBenötigte Zeit: {}\n'.format(stop - start))
-
-
-
-
-
-# Für Output-Datei: 
-# Company;Year;SR;NFE;ISIN;Date SRNFE;Date AR;ReportSize SRNFE;ReportSentence SRNFE;ReportWords SRNFE;GRI;Keywords;KeywordsClean;SentenceRestatement;ReportSize AR;ReportSentence AR;ReportWords AR
