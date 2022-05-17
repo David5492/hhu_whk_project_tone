@@ -400,3 +400,73 @@ westag & getalit
 xing ag
 zalando se
 zooplus
+a.s. creation tapeten ag
+allgeier se
+berentzen-gruppe ag
+dermapharm holding se
+edag engineering group
+flatexdegiro ag
+frequentis ag
+h+r kgaa
+hapag-lloyd ag
+hellofresh se
+hensoldt ag
+hypoport se
+jost werke ag
+knorr-bremse ag
+logwin ag
+medios ag
+saf holland
+schaltbau holding
+siemens energy
+sts group
+teamviewer
+tele columbus
+varta ag
+voltabox ag
+baywa
+jungheinrich ag_sr_
+linde ag_sr_
+man se_sr_
+merck kgaa_sr_
+metro ag_sr_
+mtu aero engines_sr_
+nemetschek ag_sr_
+norma group se_sr_
+prosiebensat.1 media se_sr_
+puma ag_nfe_
+puma ag_sr_
+rheinmetall ag_sr_
+rocket internet se_nfe_
+rwe ag_sr_
+salzgitter ag_nfe_
+schäffler ag_sr_
+scout24 ag_sr_
+siemens ag_sr_
+sky dtld ag na_sr_
+stroeer se_nfe_
+suess_microtec_nfe_
+symrise ag_nfe_
+symrise ag_sr_
+telefonica dtld hldg ag_sr_
+tui ag_sr_
+uniper se na_sr_
+utd.internet ag_sr_
+volkswagen ag_sr_
+wacker chemie_sr_
+wincor nixdorf_nfe_
+wincor nixdorf_sr_
+ceconomy ag (metro ag) sr
+ceconomy ag (metro ag) sr_
+elmos semiconductor
+fres.med.care kgaa
+gerry weber internat
+gerry weber
+jenoptik ag_nfe_
+k+s. ag_sr_
+krones ag_nfe_
+krones ag_sr_.
+ksb
+sgl carbon se_nfe_
+sma solar technol. ag_sr_
+zalando se_nfe_

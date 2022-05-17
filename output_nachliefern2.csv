@@ -1,0 +1,45 @@
+Company;Year;pos;neg;unc;SR;NFE;ISIN;Date_SRNFE;Date_AR;report_size_SRNFE;report_sentence_SRNFE;report_words_SRNFE;is_gri;report_size_AR;report_sentence_AR;report_words_AR;pfad
+ahlers;2018;54;42;24;0;1;DE0005009740;2020-11-09;fehlt;15;1255;5699;1;fehlt;fehlt;fehlt;D:\Berichte\Ahlers2018_NFE.pdf
+baywa;2018;226;152;109;1;0;DE0005194062;2019-04-03;fehlt;93;3786;28139;1;fehlt;fehlt;fehlt;D:\Berichte\BayWa2018_SR.pdf
+ceconomy ag (metro ag) sr;2008;57;22;17;1;0;DE0007257503;2009-05-11;fehlt;19;1451;4029;1;fehlt;fehlt;fehlt;D:\Berichte\Ceconomy AG (Metro AG) SR 2008.pdf
+ceconomy ag (metro ag) sr_;2010;26;8;8;1;0;DE0007257503;2011-05-18;fehlt;27;1589;3229;0;fehlt;fehlt;fehlt;D:\Berichte\Ceconomy AG (Metro AG) SR_2010.pdf
+ceconomy ag (metro ag) sr_;2012;187;119;76;1;0;DE0007257503;2013-03-27;fehlt;94;3927;25358;1;fehlt;fehlt;fehlt;D:\Berichte\Ceconomy AG (Metro AG) SR_2012.pdf
+ceconomy ag (metro ag) sr_;2014;163;86;71;1;0;DE0007257503;2014-12-11;fehlt;60;1753;19894;1;fehlt;fehlt;fehlt;D:\Berichte\Ceconomy AG (Metro AG) SR_2014.pdf
+ceconomy ag (metro ag) sr_;2016;278;188;164;1;0;DE0007257503;2016-12-14;fehlt;162;4492;38257;1;fehlt;fehlt;fehlt;D:\Berichte\Ceconomy AG (Metro AG) SR_2016.pdf
+celesio ag;2020;22;32;8;1;0;DE000CLS1001;2020-11-09;fehlt;55;1930;19507;1;fehlt;fehlt;fehlt;D:\Berichte\CELESIO AG2020_SR.pdf
+dt.telekom ag;2019;416;212;245;1;0;DE0005557508;2020-07-08;fehlt;114;3689;46330;1;fehlt;fehlt;fehlt;D:\Berichte\DT.TELEKOM AG2019_SR.pdf
+duerr ag;2011;69;29;14;1;0;DE0005565204;2012-12-04;fehlt;18;1782;4467;0;fehlt;fehlt;fehlt;D:\Berichte\Duerr AG2011_SR.pdf
+elmos semiconductor;2017;8;11;1;0;1;fehlt;2020-11-09;fehlt;3;444;941;0;fehlt;fehlt;fehlt;D:\Berichte\Elmos Semiconductor2017_NFE.pdf
+elmos semiconductor;2018;8;11;0;0;1;fehlt;2020-11-09;fehlt;2;438;967;0;fehlt;fehlt;fehlt;D:\Berichte\Elmos Semiconductor2018_NFE.pdf
+elmos semiconductor;2020;16;18;3;0;1;fehlt;2021-06-07;fehlt;3;340;1865;0;fehlt;fehlt;fehlt;D:\Berichte\Elmos Semiconductor2020_NFE.pdf
+elringklinger ag;2020;89;68;36;1;0;DE0007856023;2021-10-29;fehlt;30;1017;10532;0;fehlt;fehlt;fehlt;D:\Berichte\ELRINGKLINGER AG2020_SR.pdf
+encavis;2020;98;59;36;1;0;DE0006095003;2021-03-23;fehlt;42;1042;9691;0;fehlt;fehlt;fehlt;D:\Berichte\ENCAVIS2020_SR.pdf
+fres.med.care kgaa;2017;69;117;33;0;1;fehlt;2020-05-31;2020-05-31;19;1279;9513;1;19;1163;9513;D:\Berichte\FRES.MED.CARE KGAA2017_NFE.pdf
+fres.med.care kgaa;2018;101;109;30;0;1;fehlt;2020-05-31;2020-05-31;24;2461;13101;1;24;2255;13101;D:\Berichte\FRES.MED.CARE KGAA2018_NFE.pdf
+fresenius se;2018;168;145;65;0;1;DE0005785638;2020-05-31;fehlt;39;4895;20602;1;fehlt;fehlt;fehlt;D:\Berichte\Fresenius SE2018_NFE.pdf
+gea group ag;2019;147;192;63;1;0;DE0006602006;2020-03-16;fehlt;52;2891;19098;1;fehlt;fehlt;fehlt;D:\Berichte\GEA GROUP AG2019_SR.pdf
+gerry weber internat;2018;56;83;46;0;1;DE000A255G36;2020-01-15;fehlt;34;5949;7460;1;fehlt;fehlt;fehlt;D:\Berichte\Gerry Weber Internat2018_NFE .pdf
+gerry weber;2019;45;58;32;0;1;DE000A255G36;2020-03-23;fehlt;25;5017;5826;0;fehlt;fehlt;fehlt;D:\Berichte\Gerry Weber2019_NFE.pdf
+gesco;2018;34;36;27;1;0;DE000A1K0201;2018-07-05;fehlt;14;332;4149;1;fehlt;fehlt;fehlt;D:\Berichte\Gesco2018_SR.pdf
+gesco;2019;32;38;27;0;1;DE000A1K0201;2019-07-04;fehlt;20;1267;4617;1;fehlt;fehlt;fehlt;D:\Berichte\Gesco2019_NFB.pdf
+gesco;2020;26;31;22;0;1;DE000A1K0201;2021-04-26;fehlt;14;1166;3674;1;fehlt;fehlt;fehlt;D:\Berichte\Gesco2020_NFB.pdf
+gk software;2019;36;28;21;1;0;DE0007571424;2020-04-17;2020-04-17;31;781;4243;0;31;777;4243;D:\Berichte\GK SOFTWARE2019_SR.pdf
+hornbachholding;2018;37;35;18;1;0;fehlt;2018-05-16;fehlt;14;919;4500;0;fehlt;fehlt;fehlt;D:\Berichte\HornbachHolding2018_SR.pdf
+indus;2017;36;50;24;0;1;DE0005855183;2020-11-09;fehlt;16;1580;7047;0;fehlt;fehlt;fehlt;D:\Berichte\Indus2017_NFE.pdf
+jenoptik ag_nfe_;2017;66;32;22;0;1;DE000A2NB601;2018-03-20;fehlt;13;1168;5380;1;fehlt;fehlt;fehlt;D:\Berichte\Jenoptik AG_NFE_2017.pdf
+jenoptik ag_nfe_;2018;79;32;25;0;1;DE000A2NB601;2019-11-17;fehlt;17;1379;6725;1;fehlt;fehlt;fehlt;D:\Berichte\Jenoptik AG_NFE_2018.pdf
+k+s. ag_sr_;2010;422;273;212;1;0;fehlt;2011-03-18;fehlt;150;6423;45456;1;fehlt;fehlt;fehlt;D:\Berichte\k+s. AG_SR_2010.pdf
+krones ag_nfe_;2018;130;69;36;0;1;DE0006335003;2019-04-08;fehlt;57;5778;17343;1;fehlt;fehlt;fehlt;D:\Berichte\krones AG_NFE_2018.pdf
+krones ag_sr_.;2010;305;136;91;1;0;DE0006335003;2011-06-01;fehlt;88;3598;22745;1;fehlt;fehlt;fehlt;D:\Berichte\krones AG_SR_.2010.pdf
+krones ag_sr_.;2011;410;127;127;1;0;DE0006335003;2012-06-18;fehlt;105;4231;28402;1;fehlt;fehlt;fehlt;D:\Berichte\krones AG_SR_.2011.pdf
+krones ag_sr_.;2012;287;160;136;1;0;DE0006335003;2013-06-25;fehlt;128;21336;46649;1;fehlt;fehlt;fehlt;D:\Berichte\krones AG_SR_.2012.pdf
+krones ag_sr_.;2013;316;147;128;1;0;DE0006335003;2014-05-26;fehlt;139;18744;60625;1;fehlt;fehlt;fehlt;D:\Berichte\krones AG_SR_.2013.pdf
+krones ag_sr_.;2014;317;173;168;1;0;DE0006335003;2015-06-15;fehlt;147;22403;50580;1;fehlt;fehlt;fehlt;D:\Berichte\krones AG_SR_.2014.pdf
+krones ag_sr_.;2015;316;158;141;1;0;DE0006335003;2016-06-13;fehlt;152;9252;36452;1;fehlt;fehlt;fehlt;D:\Berichte\krones AG_SR_.2015.pdf
+krones ag_sr_.;2016;344;167;122;1;0;DE0006335003;2017-06-11;fehlt;155;6706;37354;1;fehlt;fehlt;fehlt;D:\Berichte\krones AG_SR_.2016.pdf
+krones ag_sr_.;2017;243;78;79;1;0;DE0006335003;2018-06-05;fehlt;113;5164;24176;1;fehlt;fehlt;fehlt;D:\Berichte\krones AG_SR_.2017.pdf
+ksb;2017;30;53;18;0;1;fehlt;2020-11-09;fehlt;10;1106;3920;0;fehlt;fehlt;fehlt;D:\Berichte\KSB2017_NFE.pdf
+sgl carbon se_nfe_;2018;0;0;0;0;1;DE0007235301;2019-03-27;2019-03-27;1;4;5;0;1;2;5;D:\Berichte\SGL Carbon SE_NFE_2018.pdf
+sma solar technol. ag_sr_;2013;120;50;53;1;0;DE000A0DJ6J9;2014-05-23;2014-05-23;39;865;9625;1;39;836;9625;D:\Berichte\SMA Solar Technol. AG_SR_2013.pdf
+zalando se_nfe_;2018;228;79;41;0;1;DE000ZAL1111;2019-11-17;fehlt;36;2739;12828;1;fehlt;fehlt;fehlt;D:\Berichte\Zalando SE_NFE_2018.pdf
+zooplus;2020;45;71;57;0;1;DE0005111702;2021-09-08;fehlt;13;528;6229;1;fehlt;fehlt;fehlt;D:\Berichte\zooplus2020_NFB.pdf

@@ -10,9 +10,9 @@ start = datetime.datetime.now()
 
 # 0. Vokabellisten laden
 
-df_neg = pd.read_excel('C:/Users/test/Dropbox/HHU FACC Lehrstuhl SHK-WHB/Looser/Tone/BPW_Dictionary.xlsx', sheet_name='NEG_BPW', header= None)
-df_pos = pd.read_excel('C:/Users/test/Dropbox/HHU FACC Lehrstuhl SHK-WHB/Looser/Tone/BPW_Dictionary.xlsx', sheet_name='POS_BPW', header= None)
-df_unc = pd.read_excel('C:/Users/test/Dropbox/HHU FACC Lehrstuhl SHK-WHB/Looser/Tone/BPW_Dictionary.xlsx', sheet_name='UNC_BPW', header= None)
+df_neg = pd.read_excel('BPW_Dictionary.xlsx', sheet_name='NEG_BPW', header= None)
+df_pos = pd.read_excel('BPW_Dictionary.xlsx', sheet_name='POS_BPW', header= None)
+df_unc = pd.read_excel('BPW_Dictionary.xlsx', sheet_name='UNC_BPW', header= None)
 
 pos_list = []
 neg_list = []
@@ -28,7 +28,7 @@ for idx, row in df_unc.iterrows():
     unc_list.append(row[0].lower().strip())
 
 # 0. ISIN-dict laden:
-df = pd.read_excel('C:/Users/test/Dropbox/HHU FACC Lehrstuhl SHK-WHB/Looser/CDAX-Unternehmen CSR Report Informationen 2008-2018_DL.xlsx')
+df = pd.read_excel('CDAX-Unternehmen CSR Report Restatements 2008-2020.xlsx')
 df = df.fillna(method='ffill')
 isin_dict = {}
 for index, row in df.iterrows():
@@ -41,7 +41,9 @@ for i in isin_dict.keys():
 
 # 1. Pfad-Liste zur Bearbeitung erstellen
 # Alle deutschen Dateipfade sammeln.
-PATH = 'C:\\Users\\test\\sciebo\\FACC SHK-WHB Berichte' # PATH = 'C:\\Users\\test\\Documents\\GitHub\\hhu_whk_project_restatements\\test_data'
+# PATH = 'C:\\Users\\test\\Documents\\GitHub\\hhu_whk_project_restatements\\test_data'
+# PATH = 'C:\\Users\\test\\sciebo\\FACC SHK-WHB Berichte' 
+PATH = 'C:\\Users\\test\\Documents\\GitHub\\hhu_whk_project_restatements\\data\\raw_nachgeliefert_ganz_frede'
 paths = [y for x in os.walk(PATH) for y in glob(os.path.join(x[0], '*.pdf'))]
 paths_de = [pfad for pfad in paths if 'eng.' not in pfad.lower()]
 paths_de_SR = [pfad for pfad in paths_de if not ('ar.' in pfad.lower()) | ('gb' in pfad.lower()) | ('ea.' in pfad.lower()) | ('_ar' in pfad.lower()) | ('abschlu' in pfad.lower()) | ('jb' in pfad.lower()) | ('annual' in pfad.lower())]
@@ -256,7 +258,7 @@ for pfad in nicht_eingelesen:
                             neg_words += 1
                         if word in unc_list:
                             unc_words += 1
-            with open('output.csv', mode='a', encoding="utf-8") as file:
+            with open('output_nachliefern2.csv', mode='a', encoding="utf-8") as file:
                 file.write(u'{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{};{}\n'.format(Company, Year, pos_words, neg_words, unc_words, SR, NFE, ISIN, Date_SRNFE, Date_AR, report_size_SRNFE, report_sentence_SRNFE, report_words_SRNFE, is_gri, report_size_AR, report_sentence_AR, report_words_AR, pfad))
             with open("eingelesen.txt", mode="a", encoding="utf-8") as file:
                 file.write(pfad + '\n')

@@ -1197,3 +1197,140 @@ C:\Users\test\sciebo\FACC SHK-WHB Berichte\CDAX Rohdaten 2019-2020_Stand 13.09.2
 C:\Users\test\sciebo\FACC SHK-WHB Berichte\CDAX Rohdaten 2019-2020_Stand 13.09.2021\XING AG\SR\XING AG2020_SR.pdf
 C:\Users\test\sciebo\FACC SHK-WHB Berichte\CDAX Rohdaten 2019-2020_Stand 13.09.2021\ZALANDO SE\SR\ZALANDO SE2020_SR.pdf
 C:\Users\test\sciebo\FACC SHK-WHB Berichte\CDAX Rohdaten 2019-2020_Stand 13.09.2021\zooplus\SR\zooplus2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\A.S. Creation Tapeten AG2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\A.S. Creation Tapeten AG2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\ALLGEIER SE2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Berentzen-Gruppe AG2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Berentzen-Gruppe AG2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Dermapharm Holding SE2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Dermapharm Holding SE2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\EDAG Engineering Group2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\EDAG Engineering Group2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Flatexdegiro AG2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Frequentis AG2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Frequentis AG2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\H+R KGAA2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\H+R KGAA2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\HAPAG-LLOYD AG 2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\HAPAG-LLOYD AG2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\HELLOFRESH SE2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\HELLOFRESH SE2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\HENSOLDT AG2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Hypoport SE2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Hypoport SE2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Jost Werke AG2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Knorr-Bremse AG2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\Knorr-Bremse AG2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\LOGWIN AG2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\LOGWIN AG2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\MEDIOS AG2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\SAF HOLLAND2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\SAF HOLLAND2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\SCHALTBAU HOLDING2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\SCHALTBAU HOLDING2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\SIEMENS ENERGY2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\STS GROUP2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\STS GROUP2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\TEAMVIEWER2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\TELE COLUMBUS2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\TELE COLUMBUS2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\VARTA AG2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\1. SRs (deutsch) Joiners 2019-2020\VOLTABOX AG2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\BayWa2014_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\BayWa2015_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\BayWa2016_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\BayWa2017_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Deutz AG2017_NFE.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Deutz AG2018_NFE.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Dr Hönle2018_NFE.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Dr Hönle2019_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Dr Hönle2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\FRAPORT AG FFM.AIRPORT2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Jungheinrich AG_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Jungheinrich AG_SR_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Jungheinrich AG_SR_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Linde AG_SR_2008.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Linde AG_SR_2009.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Linde AG_SR_2011.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Linde AG_SR_2012.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Linde AG_SR_2013.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Linde AG_SR_2014.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Linde AG_SR_2015.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Linde AG_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Linde AG_SR_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\LUFTHANSA AG2018_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MAN SE_SR_2010.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MAN SE_SR_2011.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MAN SE_SR_2012.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MAN SE_SR_2013.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MAN SE_SR_2014.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MAN SE_SR_2015.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MAN SE_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MAN SE_SR_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MAN SE_SR_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Merck KGAA_SR_2008.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Merck KGAA_SR_2010.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Metro AG_SR_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Metro AG_SR_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MTU AERO ENGINES2019_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MTU Aero Engines_SR_2015.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\MTU Aero Engines_SR_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Nemetschek AG_SR_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Norma Group SE_SR_2013.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Norma Group SE_SR_2015.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Norma Group SE_SR_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\ProsiebenSat.1 Media SE_SR_2015.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\ProsiebenSat.1 Media SE_SR_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Puma AG_NFE_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Puma AG_NFE_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Puma AG_SR_2008.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\R Stahl2020_NFB.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Rheinmetall AG_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Rocket Internet SE_NFE_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\RWE AG_SR_2008.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\RWE AG_SR_2009.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\RWE AG_SR_2010.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\RWE AG_SR_2011.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\RWE AG_SR_2012.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\RWE AG_SR_2013.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\RWE AG_SR_2014.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\RWE AG_SR_2015.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\RWE AG_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\RWE AG_SR_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\RWE AG_SR_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Salzgitter AG_NFE_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Salzgitter AG_NFE_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Schäffler AG_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Schäffler AG_SR_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Schäffler AG_SR_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Scout24 AG_SR_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Siemens AG_SR_2014.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Siemens AG_SR_2015.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\SKY DTLD AG NA_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Stroeer SE_NFE_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Stroeer SE_NFE_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Suess_Microtec_NFE_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Suess_Microtec_NFE_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Symrise AG_NFE_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Symrise AG_NFE_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Symrise AG_SR_2010.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Telefonica DTLD HLDG AG_SR_2010.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Telefonica DTLD HLDG AG_SR_2015.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Telefonica DTLD HLDG AG_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Telefonica DTLD HLDG AG_SR_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\TUI AG_SR_2015.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Uniper SE NA_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\UTD.Internet AG_SR_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Verallia Deutschland2020_SR.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Volkswagen AG_SR_2010.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Volkswagen AG_SR_2013.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Volkswagen AG_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Volkswagen AG_SR_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Wacker Chemie_SR_2014.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Wacker Chemie_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Wacker Chemie_SR_2018.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Wincor Nixdorf_NFE_2017.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Wincor Nixdorf_NFE_2018_mit PV.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Wincor Nixdorf_SR_2014.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\Wincor Nixdorf_SR_2016.pdf
+C:\Users\test\Documents\GitHub\hhu_whk_project_restatements\data\raw_nachgeliefert_ganz_frede\2. Fehlende SRs 2008-2020\zooplus2020_NFB.pdf
